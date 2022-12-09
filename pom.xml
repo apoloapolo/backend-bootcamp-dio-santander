@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.project</groupId>
-	<artifactId>bootcamp</artifactId>
+	<artifactId>backend-bootcamp-dio-santander</artifactId>
 	<version>1.0.0</version>
 	<name>bootcamp</name>
 	<description>Demo project for Spring Boot</description>
